@@ -16,6 +16,24 @@
 # if big_list.count(x) == 10 and big_list.count(y) == 10:
 #     print("Great!")
 
-x="john"
-y=23
-print("%s is %d year old"% (x,y))
+# x="john"
+# y=23
+# print("%s is %d year old"% (x,y))
+
+# mylist=[1,2,3,4,5]
+# print("mylist is %s" %mylist)
+
+#Print the Hello John Doe. Your current balance is $53.44.
+# data=("john", "Doe", 53.44)
+# strings="Hello %s %s, your current balance is $%s"
+# print(strings % data)
+# astring = "Hello world!"
+# print(astring[::-2])
+
+
+
+
+
+
+astring = "Hello world!"
+afewwords = astring.split(" ")
