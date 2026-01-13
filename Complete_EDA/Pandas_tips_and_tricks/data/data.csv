@@ -1,0 +1,6 @@
+case_id,client_name,case_title,court,status,assigned_lawyer,hearing_date,fees,amount_paid
+1,Ali Khan,Bail Application,Session Court,Open,Adv. Hamza,2025-12-01,15000,5000
+2,Sara Malik,Property Dispute,High Court,Closed,Adv. Farah,2025-10-12,45000,45000
+3,Ahmed Raza,FIR 234/21,Civil Court,In Progress,Adv. Kamran,2025-11-28,20000,5000
+4,Zainab Shah,Divorce Case,Family Court,Open,Adv. Ayesha,2025-12-05,30000,10000
+5,Bilal Ahmed,Cyber Crime Complaint,FIA Cyber Wing,In Progress,Adv. Sameer,2025-12-08,50000,10000
